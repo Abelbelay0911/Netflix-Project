@@ -1,0 +1,18 @@
+Nav{
+
+background-color: black;
+
+  justify-content: space-between;
+   list-style: none;  
+  cursor: pointer;
+  
+}
+@media screen and (max-width: 991px){
+  .right-side-Header{
+  display: table-row-group;
+   margin-left: 760px;
+
+      
+  } 
+
+}

@@ -1,0 +1,39 @@
+.footer{
+   /* margin-top: 70vh; */
+   font-size: 15px;
+ background-color: black;
+
+
+}
+.footer_li{
+   color: rgb(255, 255, 255); 
+     justify-content: space-between;
+  cursor: pointer;
+  font-size: 15px;
+  display: flex;
+   margin: 0 20%;
+ 
+}
+
+li {
+      list-style: none; 
+   padding-top: 15px;    
+  cursor: pointer;
+  justify-content: space-around;
+  
+}
+.footer-icons{
+
+    text-align: center;
+    color: rgb(242, 244, 246);
+    justify-content: space-between;
+    width: 12%;
+  display:flex;
+  margin-left: 20%;
+}
+
+.footer_copy-right{
+  margin: auto 20%;
+  color: rgb(255, 255, 255); 
+
+}
